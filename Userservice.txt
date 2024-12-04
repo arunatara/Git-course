@@ -2,3 +2,5 @@
 Process the data... 
 
 create a new avatar1
+
+login and logout
